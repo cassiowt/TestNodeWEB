@@ -1,0 +1,13 @@
+
+/*exports.cawt = function(req, res, next) {
+  var retorno = {'name' : 'CAWT'}
+
+  model.filter(retorno, function(err, docs) {
+    if (err) return next(err);
+    res.send(docs);
+  });
+};
+*/
+
+//app.get('/cawt', routes.cawt);
+
